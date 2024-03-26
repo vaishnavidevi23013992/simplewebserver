@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-```
+  ```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -184,9 +184,9 @@ Testing the webserver.
 </body>
 
 </html>
-```
 ## OUTPUT:
-![alt text](SC1.jpg)
+![SC1](https://github.com/vaishnavidevi23013992/simplewebserver/assets/151864235/81469b7b-d4f2-4b66-ba7d-06d575cb318d)
+
   
 ## RESULT:
 The Program for implementing simple webserver is executed successfully.
